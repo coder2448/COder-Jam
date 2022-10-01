@@ -1,2 +1,2 @@
 # COder-Jam
-#HacktoberFest2022
+This respository is like the battle field for coders 
